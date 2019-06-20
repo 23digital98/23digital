@@ -1,1 +1,1 @@
-<?php echo 'tesssstrrrrrrrrrrrrrrrrrrrrrrrr'; ?>
+<?php echo 'Lorem Ipsum'; ?>
